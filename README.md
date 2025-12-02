@@ -62,6 +62,7 @@
   <img src="./assets/chain/solana.png" alt="Solana" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/chain/ethereum.png" alt="Ethereum" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/chain/binance.png" alt="BNB Chain" width="48" height="48" style="margin: 8px;" />
+  <img src="./assets//chain/Cardano.png" alt="Cardano" width="48" height="48" sytyle="margin: 8px">
   <img src="./assets/chain/aptos.png" alt="Aptos" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/chain/polkadot1.png" alt="Polkadot" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/chain/cosmos.png" alt="Cosmos" width="48" height="48" style="margin: 8px;" />
