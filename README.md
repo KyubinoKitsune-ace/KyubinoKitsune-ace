@@ -115,6 +115,10 @@ I'm passionate about exploring how AI can enhance blockchain applications—from
 
 ---
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=pongpong-zigzag&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/pongpong-zigzag/github-widgetbox)
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pongpong-zigzag&style=plastic&color=blueviolet" alt="Profile Views" />
 </div>
