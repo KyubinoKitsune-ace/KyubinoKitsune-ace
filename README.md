@@ -1,6 +1,3 @@
-<div align="center">
-  <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
 
 ![Failure is not an Option, it is a Result<T,E>](./assets/banner/banner.jpg "Failure is not an Option it is a Result<T,E>")
 
@@ -17,24 +14,28 @@
   <br>
 </div>
 
-<div align="left">
-  
-### 🚀 What I Do
-
-I specialize in building innovative solutions at the intersection of **blockchain technology** and **artificial intelligence**. With over a decade of experience, I've worked across multiple blockchain ecosystems and AI frameworks to create cutting-edge decentralized applications, smart contracts, and intelligent agentic systems.
-
-### 💡 My Expertise
-
-- **Blockchain Development**: Smart contract development, DeFi protocols, cross-chain integrations, and blockchain infrastructure across Ethereum, Solana, Aptos, Sui, and other major networks
-- **AI & Machine Learning**: Building AI agents, LLM integrations, neural networks, and deploying ML models for production systems
-- **Full-Stack Development**: End-to-end development from smart contracts to frontend interfaces, with expertise in modern web frameworks
-- **Architecture & Design**: Designing scalable, secure, and efficient systems that leverage both blockchain's decentralization and AI's intelligence
-
-### 🎯 Current Focus
-
-I'm passionate about exploring how AI can enhance blockchain applications—from intelligent smart contracts to AI-powered DeFi protocols and autonomous agent systems that interact with blockchain networks.
-
-</div>
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <p>
+        I specialize in building innovative solutions at the intersection of <strong>blockchain technology</strong> and <strong>artificial intelligence</strong>. With over a decade of experience, I've contributed to decentralized applications, smart contracts, and intelligent agentic systems across multiple ecosystems and frameworks.
+      </p>
+      <ul>
+        <li><strong>Blockchain Development</strong>: Smart contracts, DeFi protocols, cross-chain integrations, and infrastructure for Ethereum, Solana, Aptos, Sui, and beyond</li>
+        <li><strong>AI &amp; Machine Learning</strong>: AI agents, LLM integrations, neural networks, and production-ready ML deployments</li>
+        <li><strong>Full-Stack Development</strong>: Modern web stacks from protocol layer to intuitive frontends</li>
+        <li><strong>Architecture &amp; Design</strong>: Secure, scalable systems that pair blockchain decentralization with AI intelligence</li>
+      </ul>
+      <p>
+        I'm driven by how AI can elevate blockchain—from intelligent smart contracts to AI-powered DeFi and autonomous on-chain agents.
+      </p>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="270" alt="AI-powered blockchain illustration">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="270">
+    </td>
+  </tr>
+</table>
 
 -----
 
@@ -116,6 +117,26 @@ I'm passionate about exploring how AI can enhance blockchain applications—from
 ---
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=pongpong-zigzag&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/pongpong-zigzag/github-widgetbox)
+
+---
+
+
+
+---
+
+### GitHub Stats Visualizations : Transparent
+> Generate visualizations of GitHub user and repository statistics using GitHub
+Actions.
+
+<a href="https://github.com/pongpong-zigzag/github-stats-transparent">
+
+![](https://raw.githubusercontent.com/pongpong-zigzag/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/pongpong-zigzag/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+> NOTE: This repository is my extension of the repo [pongpong-zigzag/github-stats](https://github.com/pongpong-zigzag/github-stats). This repo was meant to serve as a detached fork of his project. If you like this repository make sure you also star his repository to show appreciation for his work. 
+
 
 ---
 
