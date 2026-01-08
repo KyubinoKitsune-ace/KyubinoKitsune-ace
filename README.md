@@ -6,7 +6,7 @@
 
 <div width="100%">
     <h1 align="center">
-      I am a Blockchain + AI Engineer with 10+ years of experience.
+      I am a Senior Software Engineer with 10 years of real experience.
     </h1>
   </div>
 
