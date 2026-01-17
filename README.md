@@ -116,7 +116,7 @@
 
 ---
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=pongpong-zigzag&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/pongpong-zigzag/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kyubinokitsune-ace&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/kyubinokitsune-ace/github-widgetbox)
 
 ---
 
