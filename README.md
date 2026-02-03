@@ -137,7 +137,7 @@
 <a href="https://wa.me/<your_wa_number>">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
-<a href="https://github.com/pongpong-zigzag">
+<a href="https://github.com/KyubinoKitsune-ace">
   <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" alt="GitHub" />
 </a>
 </div>
