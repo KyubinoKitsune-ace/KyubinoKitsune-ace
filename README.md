@@ -21,14 +21,14 @@
         I specialize in building innovative solutions at the intersection of <strong>blockchain technology</strong> and <strong>artificial intelligence</strong>. With over a decade of experience, I've contributed to decentralized applications, smart contracts, and intelligent agentic systems across multiple ecosystems and frameworks.
       </p>
       <ul>
-        <li><strong>Blockchain Development</strong>: Smart contracts, DeFi protocols, cross-chain integrations, and infrastructure for Ethereum, Solana, Aptos, Sui, and beyond</li>
+        <li><strong>Blockchain Development</strong>: Smart contracts, DeFi protocols, cross-chain integrations, and infrastructure for Ethereum, Solana, Qubic, Aptos, ICP</li>
         <li><strong>AI &amp; Machine Learning</strong>: AI agents, LLM integrations, neural networks, and production-ready ML deployments</li>
         <li><strong>Full-Stack Development</strong>: Modern web stacks from protocol layer to intuitive frontends</li>
         <li><strong>Architecture &amp; Design</strong>: Secure, scalable systems that pair blockchain decentralization with AI intelligence</li>
       </ul>
-      <p>
-        I'm driven by how AI can elevate blockchain—from intelligent smart contracts to AI-powered DeFi and autonomous on-chain agents.
-      </p>
+      <h2 align="center">
+        I always love NAN Stack for programming as a passionate and skilled engineer.
+      </h2>
     </td>
     <td width="45%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="270" alt="AI-powered blockchain illustration">
@@ -51,13 +51,14 @@
   <img src="./assets/language/funC.png" alt="FunC" width="48" height="48" style="margin: 8px;" />
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" style="margin: 8px;" /></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" style="margin: 8px;" /></a>
+  <a href="https://en.wikibooks.org/wiki/C_Sharp_Programming" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48" style="margin: 8px;" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" style="margin: 8px;" /></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" style="margin: 8px;" /></a>
   <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="48" height="48" style="margin: 8px;" /></a>
 </div>
 
-### Frameworks & Tooling
-<div align="center">
+
+<!-- <div align="center">### Frameworks & Tooling
   <img src="./assets/framework/foundry.png" alt="Foundry" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/framework/hardhat.svg" alt="HardHat" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/framework/anchor.png" alt="Anchor" width="48" height="48" style="margin: 8px;" />
@@ -76,10 +77,10 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" style="margin: 8px;" /></a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48" style="margin: 8px;" /></a>
   <img src="./assets/framework/vapi.png" alt="VApi" width="48" height="48" style="margin: 8px;" />
-</div>
+</div> -->
 
-### Blockchain Networks
-<div align="center">
+
+<!-- <div align="center">### Blockchain Networks
   <img src="./assets/chain/solana.png" alt="Solana" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/chain/ethereum.png" alt="Ethereum" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/chain/binance.png" alt="BNB Chain" width="48" height="48" style="margin: 8px;" />
@@ -90,7 +91,7 @@
   <img src="./assets/chain/polygon.png" alt="Polygon" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/chain/sui.png" alt="Sui" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/chain/stellar.png" alt="Stellar" width="48" height="48" style="margin: 8px;" />
-</div>
+</div> -->
 
 ### Backend, Data & Cloud
 <div align="center">
@@ -102,8 +103,8 @@
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="48" height="48" style="margin: 8px;" /></a>
 </div>
 
-### AI & Agentic Systems
-<div align="center">
+
+<!-- <div align="center">### AI & Agentic Systems
   <img src="./assets/ai/openai.svg" alt="OpenAI" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/ai/deepseek.svg" alt="DeepSeek" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/ai/Langchain.svg" alt="LangChain" width="48" height="48" style="margin: 8px;" />
@@ -112,7 +113,7 @@
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" style="margin: 8px;" /></a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48" style="margin: 8px;" /></a>
   <img src="./assets/ai/ollama.svg" alt="Ollama" width="48" height="48" style="margin: 8px;" />
-</div>
+</div> -->
 
 ---
 
