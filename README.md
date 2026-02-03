@@ -6,7 +6,7 @@
 
 <div width="100%">
     <h1 align="center">
-      I am a Blockchain + AI Engineer with 10+ years of experience.
+      I am a Senior Software Engineer with 10 years of real experience.
     </h1>
   </div>
 
@@ -116,7 +116,7 @@
 
 ---
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=pongpong-zigzag&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/KyubinoKitsune-ace/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kyubinokitsune-ace&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/kyubinokitsune-ace/github-widgetbox)
 
 ---
 
