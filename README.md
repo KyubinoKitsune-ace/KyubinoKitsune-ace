@@ -39,7 +39,7 @@
 
 -----
 
-## ✨ Skills 💪
+## 💻 SKILLS 🧠
 
 ### Programming Languages
 <div align="center">
