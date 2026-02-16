@@ -1,150 +1,43 @@
+# KyubinoKitsune-ace
 
 ![Failure is not an Option, it is a Result<T,E>](./assets/banner/banner.jpg "Failure is not an Option it is a Result<T,E>")
 
+## At a glance
 
-## About ME
+- Senior AI/ML + Product Engineer
+- AI/ML engineering: 4 years
+- AI product engineering: 5 years
+- Focused on production delivery: reliability, observability, and measurable impact
+- Specializing in AI agents, LLM/NLP products, RAG search, and ML/DL pipelines
 
-<div width="100%">
-    <h1 align="center">
-      I am a Senior Software Engineer with 10 years of real experience.
-    </h1>
-  </div>
+## About me
 
-<div align="center">
-  <br>
-</div>
+Senior AI/ML + Product Engineer focused on shipping production-grade AI systems end-to-end.
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <p>
-        I specialize in building innovative solutions at the intersection of <strong>blockchain technology</strong> and <strong>artificial intelligence</strong>. With over a decade of experience, I've contributed to decentralized applications, smart contracts, and intelligent agentic systems across multiple ecosystems and frameworks.
-      </p>
-      <ul>
-        <li><strong>Blockchain Development</strong>: Smart contracts, DeFi protocols, cross-chain integrations, and infrastructure for Ethereum, Solana, Qubic, Aptos, ICP</li>
-        <li><strong>AI &amp; Machine Learning</strong>: AI agents, LLM integrations, neural networks, and production-ready ML deployments</li>
-        <li><strong>Full-Stack Development</strong>: Modern web stacks from protocol layer to intuitive frontends</li>
-        <li><strong>Architecture &amp; Design</strong>: Secure, scalable systems that pair blockchain decentralization with AI intelligence</li>
-      </ul>
-      <h2 align="center">
-        I always love NAN Stack for programming as a passionate and skilled engineer.
-      </h2>
-    </td>
-    <td width="45%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="270" alt="AI-powered blockchain illustration">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="270">
-    </td>
-  </tr>
-</table>
+I bring 4 years of AI/ML engineering experience and 5 years of AI product engineering experience, turning models into reliable, scalable features with measurable business impact.
 
------
+AI in industry is moving from "chatbots" to full systems: agentic workflows, retrieval + reasoning, measurable evaluations, secure enterprise deployments, and cost/latency-aware serving. That is where I build.
 
-## 💻 SKILLS 🧠
+## What I build
 
-### Programming Languages
-<div align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go" alt="Go" width="48" height="48" style="margin: 8px;" /></a>
-  <img src="./assets/language/move.png" alt="Move" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/language/funC.png" alt="FunC" width="48" height="48" style="margin: 8px;" />
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://en.wikibooks.org/wiki/C_Sharp_Programming" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="48" height="48" style="margin: 8px;" /></a>
-</div>
+- **AI agents and tool-using workflows**: routing, state machines, fallbacks, permissions, safety controls
+- **LLM/NLP products**: RAG assistants, summarization, extraction, classification, relevance/reranking
+- **ML/DL systems**: training -> evaluation -> deployment -> monitoring (drift and data quality)
+- **Data and big data pipelines**: batch/stream processing, analytics-ready datasets, experimentation loops
+- **Fullstack AI products**: APIs, dashboards, multi-tenant platforms, usage metering, SLAs
 
+## Core stack
 
-<!-- <div align="center">### Frameworks & Tooling
-  <img src="./assets/framework/foundry.png" alt="Foundry" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/framework/hardhat.svg" alt="HardHat" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/framework/anchor.png" alt="Anchor" width="48" height="48" style="margin: 8px;" />
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Native" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48" style="margin: 8px;" /></a>
-  <img src="./assets/framework/vapi.png" alt="VApi" width="48" height="48" style="margin: 8px;" />
-</div> -->
+- **Languages**: Python, SQL, TypeScript, Bash (plus Rust/Go/C++/Java as needed)
+- **Frontend**: React, Next.js, Tailwind, MUI, Chakra UI, shadcn/ui
+- **Backend**: FastAPI/Django, NestJS/Express, REST/gRPC, WebSockets, auth (JWT/OAuth)
+- **Data**: PostgreSQL (pgvector), Redis, MongoDB/DynamoDB, Elasticsearch/OpenSearch, vector DBs (Pinecone/Weaviate/Milvus/FAISS), BigQuery/Snowflake/Redshift
+- **MLOps/Infra**: Docker, Kubernetes/ECS, Terraform, GitHub Actions, Airflow/Dagster/Prefect, Kafka/PubSub/Kinesis, OpenTelemetry/Prometheus/Grafana, ELK, Sentry, MLflow/W&B
 
+## Engineering principles
 
-<!-- <div align="center">### Blockchain Networks
-  <img src="./assets/chain/solana.png" alt="Solana" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/chain/ethereum.png" alt="Ethereum" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/chain/binance.png" alt="BNB Chain" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/chain/Cardano.png" alt="Cardano" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/chain/aptos.png" alt="Aptos" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/chain/polkadot1.png" alt="Polkadot" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/chain/cosmos.png" alt="Cosmos" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/chain/polygon.png" alt="Polygon" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/chain/sui.png" alt="Sui" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/chain/stellar.png" alt="Stellar" width="48" height="48" style="margin: 8px;" />
-</div> -->
+I care about correctness, reliability, maintainability, and observability, with pragmatic tradeoffs between accuracy, latency, and cost.
 
-### Backend, Data & Cloud
-<div align="center">
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="48" height="48" style="margin: 8px;" /></a>
-</div>
+## Collaboration
 
-
-<!-- <div align="center">### AI & Agentic Systems
-  <img src="./assets/ai/openai.svg" alt="OpenAI" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/ai/deepseek.svg" alt="DeepSeek" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/ai/Langchain.svg" alt="LangChain" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/ai/huggingface.svg" alt="HuggingFace" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets/ai/eliza.webp" alt="ElizaOS" width="48" height="48" style="margin: 8px;" />
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" style="margin: 8px;" /></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48" style="margin: 8px;" /></a>
-  <img src="./assets/ai/ollama.svg" alt="Ollama" width="48" height="48" style="margin: 8px;" />
-</div> -->
-
----
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kyubinokitsune-ace&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/kyubinokitsune-ace/github-widgetbox)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pongpong-zigzag&style=plastic&color=blueviolet" alt="Profile Views" />
-</div>
-<br>
-<div align="center">
-<a href="mailto:starlight3033.ace@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://discord.com/users/<your_user_id>">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white" alt="Discord" />
-</a>
-<a href="https://t.me/<your-telegram_id>">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="https://wa.me/<your_wa_number>">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-<a href="https://github.com/KyubinoKitsune-ace">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" alt="GitHub" />
-</a>
-</div>
-
------
-
-<h4 align="center">
-  Welcome to my GitHub profile!    Don't forget to give ⭐star⭐ and 👍follow👍 me on GitHub.
-</h4>
+If you are building agentic AI or production ML systems, I am happy to collaborate.
